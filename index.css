@@ -1,0 +1,10 @@
+h1 {font-size: 40px;
+color: darkgreen;
+margin-bottom: 30px;
+} 
+p {color: rgb(120, 17, 211);
+    font-size: 15px;
+}
+a {color: skyblue;}
+body {background-color: antiquewhite;}
+.output {color: red;}
